@@ -1,7 +1,7 @@
 # MrSchokermbernibsGames
 
 Dot Product: Calculation of distance between player and exit. Result is displayed in middle of screen via a textbox.
-Linear Interpolation:
+Linear Interpolation: A circle is below the player object, changing colors with interpolation using minimum distance to an enemy.
 Particle Effect: Smoke trail that follows all ghost enemies as they float across the map.
 
 Niklaas Cotta:
