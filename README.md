@@ -12,6 +12,6 @@ Kelly Schombert:
 - The Camera, Ending the Game, Audio
 - Particle Effect
 
-Mert Yap something:
+Mert Yapucuoglu:
 - The Player Characters Parts 1 & 2
 - Linear Interpolation
